@@ -1,0 +1,123 @@
+Waiting clients: (4, 4, 3) (1, 12, 2) (3, 19, 2) (2, 26, 4) 
+Time 0
+Server 0: closed
+Server 1: closed
+Waiting clients: (4, 4, 3) (1, 12, 2) (3, 19, 2) (2, 26, 4) 
+Time 1
+Server 0: closed
+Server 1: closed
+Waiting clients: (4, 4, 3) (1, 12, 2) (3, 19, 2) (2, 26, 4) 
+Time 2
+Server 0: closed
+Server 1: closed
+Waiting clients: (4, 4, 3) (1, 12, 2) (3, 19, 2) (2, 26, 4) 
+Time 3
+Server 0: closed
+Server 1: closed
+Waiting clients: (4, 4, 3) (1, 12, 2) (3, 19, 2) (2, 26, 4) 
+Time 4
+Server 0: (4, 4, 3) 
+Server 1: closed
+Waiting clients: (1, 12, 2) (3, 19, 2) (2, 26, 4) 
+Time 5
+Server 0: (4, 4, 2) 
+Server 1: closed
+Waiting clients: (1, 12, 2) (3, 19, 2) (2, 26, 4) 
+Time 6
+Server 0: (4, 4, 1) 
+Server 1: closed
+Waiting clients: (1, 12, 2) (3, 19, 2) (2, 26, 4) 
+Time 7
+Server 0: closed
+Server 1: closed
+Waiting clients: (1, 12, 2) (3, 19, 2) (2, 26, 4) 
+Time 8
+Server 0: closed
+Server 1: closed
+Waiting clients: (1, 12, 2) (3, 19, 2) (2, 26, 4) 
+Time 9
+Server 0: closed
+Server 1: closed
+Waiting clients: (1, 12, 2) (3, 19, 2) (2, 26, 4) 
+Time 10
+Server 0: closed
+Server 1: closed
+Waiting clients: (1, 12, 2) (3, 19, 2) (2, 26, 4) 
+Time 11
+Server 0: closed
+Server 1: closed
+Waiting clients: (1, 12, 2) (3, 19, 2) (2, 26, 4) 
+Time 12
+Server 0: (1, 12, 2) 
+Server 1: closed
+Waiting clients: (3, 19, 2) (2, 26, 4) 
+Time 13
+Server 0: (1, 12, 1) 
+Server 1: closed
+Waiting clients: (3, 19, 2) (2, 26, 4) 
+Time 14
+Server 0: closed
+Server 1: closed
+Waiting clients: (3, 19, 2) (2, 26, 4) 
+Time 15
+Server 0: closed
+Server 1: closed
+Waiting clients: (3, 19, 2) (2, 26, 4) 
+Time 16
+Server 0: closed
+Server 1: closed
+Waiting clients: (3, 19, 2) (2, 26, 4) 
+Time 17
+Server 0: closed
+Server 1: closed
+Waiting clients: (3, 19, 2) (2, 26, 4) 
+Time 18
+Server 0: closed
+Server 1: closed
+Waiting clients: (3, 19, 2) (2, 26, 4) 
+Time 19
+Server 0: (3, 19, 2) 
+Server 1: closed
+Waiting clients: (2, 26, 4) 
+Time 20
+Server 0: (3, 19, 1) 
+Server 1: closed
+Waiting clients: (2, 26, 4) 
+Time 21
+Server 0: closed
+Server 1: closed
+Waiting clients: (2, 26, 4) 
+Time 22
+Server 0: closed
+Server 1: closed
+Waiting clients: (2, 26, 4) 
+Time 23
+Server 0: closed
+Server 1: closed
+Waiting clients: (2, 26, 4) 
+Time 24
+Server 0: closed
+Server 1: closed
+Waiting clients: (2, 26, 4) 
+Time 25
+Server 0: closed
+Server 1: closed
+Waiting clients: (2, 26, 4) 
+Time 26
+Server 0: (2, 26, 4) 
+Server 1: closed
+Waiting clients: 
+Time 27
+Server 0: (2, 26, 3) 
+Server 1: closed
+Waiting clients: 
+Time 28
+Server 0: (2, 26, 2) 
+Server 1: closed
+Waiting clients: 
+Time 29
+Server 0: (2, 26, 1) 
+Server 1: closed
+Time 30
+Server 0: closed
+Server 1: closed
